@@ -34,7 +34,7 @@ import (
 
 	"github.com/crossplane/provider-template/apis/sample/v1alpha1"
 	apisv1alpha1 "github.com/crossplane/provider-template/apis/v1alpha1"
-	"github.com/crossplane/provider-template/internal/controller/features"
+	"github.com/smartpcr/crossplane-provider-azs/internal/controller/features"
 )
 
 const (

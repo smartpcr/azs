@@ -38,8 +38,8 @@ import (
 
 	"github.com/crossplane/provider-template/apis"
 	"github.com/crossplane/provider-template/apis/v1alpha1"
-	template "github.com/crossplane/provider-template/internal/controller"
-	"github.com/crossplane/provider-template/internal/controller/features"
+	template "github.com/smartpcr/crossplane-provider-azs/internal/controller"
+	"github.com/smartpcr/crossplane-provider-azs/internal/controller/features"
 )
 
 func main() {

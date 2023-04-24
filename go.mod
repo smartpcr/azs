@@ -1,4 +1,4 @@
-module github.com/crossplane/provider-template
+module github.com/smartpcr/crossplane-provider-azs
 
 go 1.19
 
@@ -24,6 +24,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cenkalti/backoff/v3 v3.0.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	github.com/crossplane/provider-template v0.0.0-20230417150729-31e87b6e606a // indirect
 	github.com/dave/jennifer v1.4.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.8.0 // indirect
